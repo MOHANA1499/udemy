@@ -1,0 +1,22 @@
+.style{
+    display:inline-block;
+    padding:10px;
+    margin:5px;
+    border:2px solid;
+    margin-right:20px;
+    margin-top: 20px;
+    background-color:#f9f9f9;
+    text-align:center;
+    width: 300px;
+    box-shadow: #f9f9f9;
+}
+.imgstyle{
+    width:200px;
+    height:100px;
+}
+.buttonstyle{
+    margin-left: 500px;
+    width:100px;
+    height: 20px;
+    background-color: gray;
+}

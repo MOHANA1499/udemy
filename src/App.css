@@ -1,0 +1,36 @@
+.App {
+  margin: 16px;
+  margin-left: 40%;
+  margin-top: 5%;
+  border: 2px solid black;
+  width: 25%;
+  text-align: center;
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.text{
+  font-weight: bold;
+}
+
+.startGame{
+  margin-left: 40%;
+}
+.final{
+  margin: 16px;
+  margin-left: 40%;
+  margin-top: 5%;
+  border: 2px solid black;
+  width: 25%;
+  text-align: center;
+  background-color: lightgreen;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.playAgain{
+  margin: 16px;
+  margin-left: 40%;
+  margin-top: 5%;
+  width: 25%;
+  text-align: center;
+}
